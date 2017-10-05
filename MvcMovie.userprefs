@@ -1,5 +1,9 @@
 ﻿<Properties StartupConfiguration="{C142C6B6-1EB5-4F9A-97E8-9077EA0B4172}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvcMovie/Controllers/HelloWorldController.cs">
+    <Files>
+      <File FileName="MvcMovie/Controllers/HelloWorldController.cs" Line="18" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
